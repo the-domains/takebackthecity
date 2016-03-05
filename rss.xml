@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Takebackthecity]]></title>
+        <description><![CDATA[Takebackthecity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 17:22:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New website]]></title>
+            <description><![CDATA[<article><h1>New website</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e6b300f890a4b2453e1d13522fa7a0a292435ef.png"></article>]]></description>
+            <link>undefinednew-website/index.html</link>
+            <guid isPermaLink="false">4e759211-6191-4026-918a-a4e61438be1d</guid>
+            <pubDate>Sat, 05 Mar 2016 17:21:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
