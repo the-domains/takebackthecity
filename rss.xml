@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Takebackthecity]]></title>
         <description><![CDATA[Takebackthecity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/takebackthecity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 17:22:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 14:39:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/takebackthecity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/956922b8-43c7-4493-9552-3b3236715b2d.jpg">]]></description>
+            <link>https://thegrid.ai/takebackthecity/feaa4276-8ccd-4039-920c-1f3510a0a88c/index.html</link>
+            <guid isPermaLink="false">feaa4276-8ccd-4039-920c-1f3510a0a88c</guid>
+            <pubDate>Sun, 06 Mar 2016 14:37:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New website]]></title>
             <description><![CDATA[<article><h1>New website</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e6b300f890a4b2453e1d13522fa7a0a292435ef.png"></article>]]></description>
-            <link>undefinednew-website/index.html</link>
+            <link>https://thegrid.ai/takebackthecity/new-website/index.html</link>
             <guid isPermaLink="false">4e759211-6191-4026-918a-a4e61438be1d</guid>
             <pubDate>Sat, 05 Mar 2016 17:21:34 GMT</pubDate>
         </item>
