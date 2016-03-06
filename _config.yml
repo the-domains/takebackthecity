@@ -1,14 +1,29 @@
+name: Takebackthecity
+favicon: null
 layout_spectrum: 0.4361543
+typography_spectrum: 0.4891871
+title: Takebackthecity
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5458298
-  lightness: 0.2263893
-  brandStrength: 0.8665475
   brandColors:
     - '#111113'
     - '#FFFFFF'
     - '#D7181E'
     - '#B3B3B4'
     - '#767677'
+  brandStrength: 0.8665475
+  lightness: 0.2263893
+  saturation: 0.5458298
   rhythmicContrast: 0.1782125
-typography_spectrum: 0.4891871
-name: Takebackthecity
+purpose: []
